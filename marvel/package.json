@@ -2,9 +2,8 @@
   "name": "marvel",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://twolliston.github.io/memory-game-react",
   "dependencies": {
-    "array-shuffle": "^1.0.1",
+    "gh": "^1.13.3",
     "gh-pages": "^2.0.0",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
